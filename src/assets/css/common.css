@@ -1,0 +1,12 @@
+
+/*html{ font-size:62.5%;}*/
+/*手机端*/
+@media screen and (min-width:321px) and (max-width:736px){html{font-size:6px}}
+/*pad*/
+@media screen and (min-width:737px) and (max-width:1024px){html{font-size:10px}}
+/*PC*/
+@media screen and (min-width:1025px){html{font-size:14px}}
+
+.container{
+	width: 1400px;
+}
